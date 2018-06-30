@@ -4,6 +4,7 @@
   "description": "A simple project for experimenting with TypeScript.",
   "main": "index.js",
   "scripts": {
+    "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,6 +14,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "lite-server": "^2.4.0",
     "tslint": "^5.10.0",
     "typescript": "^2.9.2",
     "typestrict": "0.0.9"
