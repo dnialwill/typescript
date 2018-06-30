@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7fa90b3-761a-452c-9641-3b652fdc8977" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/dylanwilliams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/dylanwilliams.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -33,7 +27,7 @@
           <entry key="LICENSE" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
-          <entry key="js" value="6" />
+          <entry key="js" value="7" />
           <entry key="json" value="3" />
           <entry key="ts" value="1" />
         </counts>
@@ -42,7 +36,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="6" />
+          <entry key="JavaScript" value="7" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="TypeScript" value="1" />
           <entry key="tsconfig" value="1" />
@@ -51,17 +45,17 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="19" />
-          <entry key="html" value="88" />
-          <entry key="json" value="51" />
+          <entry key="html" value="113" />
+          <entry key="json" value="107" />
           <entry key="ts" value="162" />
-          <entry key="txt" value="118" />
+          <entry key="txt" value="175" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="88" />
-          <entry key="JSON" value="30" />
-          <entry key="PLAIN_TEXT" value="137" />
+          <entry key="HTML" value="113" />
+          <entry key="JSON" value="86" />
+          <entry key="PLAIN_TEXT" value="194" />
           <entry key="TypeScript" value="162" />
           <entry key="tsconfig" value="21" />
         </counts>
@@ -82,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="51">
+              <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -95,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/tslint.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -103,31 +97,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="51">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/app.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tsconfig.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -154,11 +143,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/tslint.json" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/app.ts" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -194,11 +183,6 @@
             <path>
               <item name="typescript" type="b2602c69:ProjectViewProjectNode" />
               <item name="typescript" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="typescript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="typescript" type="462c0819:PsiDirectoryNode" />
-              <item name="app.ts" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -249,7 +233,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530376885572</updated>
-      <workItem from="1530376888336" duration="5499000" />
+      <workItem from="1530376888336" duration="6096000" />
     </task>
     <task id="LOCAL-00001" summary="Added .gitignore, package.json, MIT license">
       <created>1530379089636</created>
@@ -258,11 +242,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530379089636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added TS and NPM config, TSlint, boilerplate webpage">
+      <created>1530382856099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530382856099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5499000" />
+    <option name="totallyTimeSpent" value="6096000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,8 +268,8 @@
     <frame x="0" y="23" width="840" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" sideWeight="0.50079745" side_tool="true" weight="0.2857143" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49920255" visible="true" weight="0.2857143" />
+      <window_info id="Favorites" sideWeight="0.50159234" side_tool="true" weight="0.2857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840763" visible="true" weight="0.27857143" />
       <window_info id="Structure" order="1" sideWeight="0.50079745" side_tool="true" weight="0.2857143" />
       <window_info anchor="bottom" id="TypeScript" weight="0.32941177" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -289,7 +280,7 @@
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993895" visible="true" weight="0.32834226" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993895" visible="true" weight="0.3211297" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32941177" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32941177" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -335,7 +326,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Added .gitignore, package.json, MIT license" />
     <MESSAGE value="Added .idea workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added .idea workspace.xml" />
+    <MESSAGE value="Added TS and NPM config, TSlint, boilerplate webpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added TS and NPM config, TSlint, boilerplate webpage" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -351,31 +343,17 @@
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tslint.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -384,8 +362,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
         </state>
       </provider>
     </entry>
