@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "lite-server",
-    "test": "jest"
+    "test": "jest --colors"
   },
   "repository": {
     "type": "git",
@@ -27,6 +27,14 @@
     "systemjs-plugin-babel": "0.0.25"
   },
   "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "**/*.{ts,tsx}"
+    ],
+    "coverageReporters": [
+      "html",
+      "json"
+    ],
     "moduleFileExtensions": [
       "ts",
       "tsx",
@@ -35,9 +43,9 @@
       "json",
       "node"
     ],
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$",
     "transform": {
       "\\.(ts|tsx)$": "ts-jest"
-    },
-    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$"
+    }
   }
 }
