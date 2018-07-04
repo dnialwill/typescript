@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "lite-server",
-    "test": "jest"
+    "test": "jest --config jest.json"
+  },
+  "majestic": {
+    "jestConfig": "./jest.json"
   },
   "repository": {
     "type": "git",
@@ -26,20 +29,5 @@
   "dependencies": {
     "systemjs": "^0.21.4",
     "systemjs-plugin-babel": "0.0.25"
-  },
-  "jest": {
-    "moduleFileExtensions": [
-      "ts",
-      "tsx",
-      "js",
-      "jsx",
-      "json",
-      "node"
-    ],
-    "setupTestFrameworkScriptFile": "jest-extended",
-    "transform": {
-      "\\.(ts|tsx)$": "ts-jest"
-    },
-    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$"
   }
 }

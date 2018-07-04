@@ -1,0 +1,23 @@
+{
+  "collectCoverage": true,
+  "collectCoverageFrom": [
+    "**/src/**/*.{js,jsx,ts,tsx}"
+  ],
+  "coverageReporters": [
+    "html",
+    "json"
+  ],
+  "moduleFileExtensions": [
+    "ts",
+    "tsx",
+    "js",
+    "jsx",
+    "json",
+    "node"
+  ],
+  "setupTestFrameworkScriptFile": "./test.setup.js",
+  "transform": {
+    "\\.(ts|tsx)$": "ts-jest"
+  },
+  "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$"
+}
