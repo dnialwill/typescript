@@ -16,8 +16,9 @@
     "node"
   ],
   "setupTestFrameworkScriptFile": "./test.setup.js",
+  "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$",
+  "testResultsProcessor": "./node_modules/jest-html-reporter",
   "transform": {
     "\\.(ts|tsx)$": "ts-jest"
-  },
-  "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$"
+  }
 }
