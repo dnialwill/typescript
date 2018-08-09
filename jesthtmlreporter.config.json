@@ -1,5 +1,5 @@
 {
   "pageTitle": "Test Results",
-  "outputPath": "test-report/index.html",
+  "outputPath": "./jest_output/test-report/index.html",
   "includeFailureMsg": true
 }

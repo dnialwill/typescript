@@ -3,6 +3,7 @@
   "collectCoverageFrom": [
     "**/src/**/*.{js,jsx,ts,tsx}"
   ],
+  "coverageDirectory": "./jest_output/coverage",
   "coverageReporters": [
     "html",
     "json"
